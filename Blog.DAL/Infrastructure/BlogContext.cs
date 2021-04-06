@@ -7,7 +7,8 @@ namespace Blog.DAL.Infrastructure
     {
         public IDbSet<Post> Posts { get; set; }
         public DbSet<Comment> Comments { get; set; }
-         
+          
+
         public BlogContext() : base("Blog")
         {
         }
