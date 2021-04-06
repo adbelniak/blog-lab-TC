@@ -1,0 +1,9 @@
+Posts:
+  test-post:
+    Id: 1
+    Author: Kala
+    Content: super post
+  test-post2:
+    Id: 2
+    Author: Kala
+    Content: ale post
